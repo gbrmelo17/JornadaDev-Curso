@@ -1,0 +1,7 @@
+*lib
+*nbproject
+*test
+*build
+*.xml
+*.mf
+
